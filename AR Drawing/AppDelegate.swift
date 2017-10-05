@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  AR Drawing
 //
-//  Created by Rayan Slim on 2017-08-04.
-//  Copyright © 2017 Rayan Slim. All rights reserved.
+//  Created by Bryan Tobin on 2017-10-04.
+//  Copyright © 2017 Bryan Tobin. All rights reserved.
 //
 
 import UIKit
